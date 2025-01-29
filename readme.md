@@ -1,6 +1,6 @@
 # Docker Static Website
 
-A simple Docker container that serves a static website using Nginx.
+A simple Docker container that serves a static website using Nginx .
 
 ## Building the Image
 
