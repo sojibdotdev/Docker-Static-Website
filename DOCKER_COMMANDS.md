@@ -1,7 +1,7 @@
 # Docker Commands Used
 
 ## Build and Tagging
-docker build -t myuser/myimage:latest .
+docker build -t myuser/myimage:latest.
 docker tag myuser/myimage:latest myuser/myimage:v1.0
 
 ## Push to Docker Hub
